@@ -1,3 +1,2 @@
 # gilada-facultad-utn
-# no tengo idea para que carajo sirve esto
-# aguanten billy butcher (el carnicero guillermo) y huguito
+no se usar GH aun chee... pero poco a poco vamo aprendiendo vistessss
