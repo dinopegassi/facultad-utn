@@ -1,0 +1,49 @@
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe.config
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.pdb
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.AssemblyReference.cache
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Form1.resources
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Properties.Resources.resources
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.GenerateResource.cache
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.CoreCompileInputs.cache
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.exe
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.pdb
+C:\Users\ALEJANDRO NOTEBOOCK\Desktop\Proyectos C#\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Form2.resources
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe.config
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.pdb
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.AssemblyReference.cache
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Form1.resources
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Form2.resources
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Properties.Resources.resources
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.GenerateResource.cache
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.exe
+C:\Users\Gero\Desktop\LAB2 TP2\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.pdb
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.AssemblyReference.cache
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Form1.resources
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.exe
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.pdb
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe.config
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.pdb
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.FormCargaDatos.resources
+C:\Users\Administrador\Desktop\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.FormGrillaDelOrto.resources
+D:\my_repos\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe.config
+D:\my_repos\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.exe
+D:\my_repos\Labo2TP1\Labo2TP1\bin\Debug\Labo2TP1.pdb
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.AssemblyReference.cache
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.SuggestedBindingRedirects.cache
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Form1.resources
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.FormCargaDatos.resources
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.FormGrillaDelOrto.resources
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.Properties.Resources.resources
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.GenerateResource.cache
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.csproj.CoreCompileInputs.cache
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.exe
+D:\my_repos\Labo2TP1\Labo2TP1\obj\Debug\Labo2TP1.pdb
