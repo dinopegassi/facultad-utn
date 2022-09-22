@@ -1,0 +1,11 @@
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\bin\Debug\Prog2GuiaEstudio3Ej8.exe.config
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\bin\Debug\Prog2GuiaEstudio3Ej8.exe
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\bin\Debug\Prog2GuiaEstudio3Ej8.pdb
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.csproj.AssemblyReference.cache
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.csproj.SuggestedBindingRedirects.cache
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.Form1.resources
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.Properties.Resources.resources
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.csproj.GenerateResource.cache
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.csproj.CoreCompileInputs.cache
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.exe
+D:\my_repos\Prog2GuiaEstudio3Ej8\Prog2GuiaEstudio3Ej8\obj\Debug\Prog2GuiaEstudio3Ej8.pdb

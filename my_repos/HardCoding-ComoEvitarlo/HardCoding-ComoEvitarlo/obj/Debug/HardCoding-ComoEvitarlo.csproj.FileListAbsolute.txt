@@ -1,0 +1,5 @@
+D:\my_repos\HardCoding-ComoEvitarlo\HardCoding-ComoEvitarlo\obj\Debug\HardCoding-ComoEvitarlo.csproj.AssemblyReference.cache
+D:\my_repos\HardCoding-ComoEvitarlo\HardCoding-ComoEvitarlo\obj\Debug\HardCoding-ComoEvitarlo.csproj.SuggestedBindingRedirects.cache
+D:\my_repos\HardCoding-ComoEvitarlo\HardCoding-ComoEvitarlo\obj\Debug\HardCoding_ComoEvitarlo.Properties.Resources.resources
+D:\my_repos\HardCoding-ComoEvitarlo\HardCoding-ComoEvitarlo\obj\Debug\HardCoding-ComoEvitarlo.csproj.GenerateResource.cache
+D:\my_repos\HardCoding-ComoEvitarlo\HardCoding-ComoEvitarlo\obj\Debug\HardCoding-ComoEvitarlo.csproj.CoreCompileInputs.cache

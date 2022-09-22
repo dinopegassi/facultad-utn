@@ -1,0 +1,11 @@
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\bin\Debug\Impresora3D.exe.config
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\bin\Debug\Impresora3D.exe
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\bin\Debug\Impresora3D.pdb
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.csproj.AssemblyReference.cache
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.Form1.resources
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.Form2.resources
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.Properties.Resources.resources
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.csproj.GenerateResource.cache
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.csproj.CoreCompileInputs.cache
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.exe
+C:\Users\Gero\Desktop\Facu\C#\Laboratorio 2\Parcial 1\Impresora3D\obj\Debug\Impresora3D.pdb
