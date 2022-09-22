@@ -1,0 +1,14 @@
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.AssemblyInfoInputs.cache
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.AssemblyInfo.cs
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\otro tp\bin\Debug\netcoreapp3.1\otro tp.exe
+C:\my_repos\gilada-facultad-utn\otro tp\bin\Debug\netcoreapp3.1\otro tp.deps.json
+C:\my_repos\gilada-facultad-utn\otro tp\bin\Debug\netcoreapp3.1\otro tp.runtimeconfig.json
+C:\my_repos\gilada-facultad-utn\otro tp\bin\Debug\netcoreapp3.1\otro tp.runtimeconfig.dev.json
+C:\my_repos\gilada-facultad-utn\otro tp\bin\Debug\netcoreapp3.1\otro tp.dll
+C:\my_repos\gilada-facultad-utn\otro tp\bin\Debug\netcoreapp3.1\otro tp.pdb
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.dll
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.pdb
+C:\my_repos\gilada-facultad-utn\otro tp\obj\Debug\netcoreapp3.1\otro tp.genruntimeconfig.cache

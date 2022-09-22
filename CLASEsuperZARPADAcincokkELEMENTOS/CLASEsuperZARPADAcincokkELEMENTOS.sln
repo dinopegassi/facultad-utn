@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CLASEsuperZARPADAcincokkELEMENTOS", "CLASEsuperZARPADAcincokkELEMENTOS\CLASEsuperZARPADAcincokkELEMENTOS.csproj", "{14DB8FC3-A0BE-406F-9031-E3657CE8B515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14DB8FC3-A0BE-406F-9031-E3657CE8B515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DB8FC3-A0BE-406F-9031-E3657CE8B515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DB8FC3-A0BE-406F-9031-E3657CE8B515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DB8FC3-A0BE-406F-9031-E3657CE8B515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6FE88CC-0962-4AD4-B331-A3F32F478A5B}
+	EndGlobalSection
+EndGlobal

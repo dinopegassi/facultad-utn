@@ -1,0 +1,22 @@
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\bin\Debug\Guia 4 Consigna 25.exe.config
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\bin\Debug\Guia 4 Consigna 25.exe
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\bin\Debug\Guia 4 Consigna 25.pdb
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.AssemblyReference.cache
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.SuggestedBindingRedirects.cache
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia_4_Consigna_25.Form1.resources
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia_4_Consigna_25.Properties.Resources.resources
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.GenerateResource.cache
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.CoreCompileInputs.cache
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.exe
+C:\Users\migue\Desktop\UTN\TUP\Programacion I\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.pdb
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\bin\Debug\Guia 4 Consigna 25.exe.config
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\bin\Debug\Guia 4 Consigna 25.exe
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\bin\Debug\Guia 4 Consigna 25.pdb
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia_4_Consigna_25.Form1.resources
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia_4_Consigna_25.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.exe
+C:\my_repos\gilada-facultad-utn\Guia 4 Consigna 25\obj\Debug\Guia 4 Consigna 25.pdb

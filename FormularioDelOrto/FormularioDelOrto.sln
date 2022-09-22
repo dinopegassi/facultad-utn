@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormularioDelOrto", "FormularioDelOrto.csproj", "{EB9B7F37-ACF6-4369-A8A2-DCCF2169B80B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JugarCraps", "..\JugarCraps\JugarCraps.csproj", "{4BA96A00-75DD-4037-85B8-CC2CB1D1C3B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9B7F37-ACF6-4369-A8A2-DCCF2169B80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9B7F37-ACF6-4369-A8A2-DCCF2169B80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9B7F37-ACF6-4369-A8A2-DCCF2169B80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9B7F37-ACF6-4369-A8A2-DCCF2169B80B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BA96A00-75DD-4037-85B8-CC2CB1D1C3B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA96A00-75DD-4037-85B8-CC2CB1D1C3B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA96A00-75DD-4037-85B8-CC2CB1D1C3B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA96A00-75DD-4037-85B8-CC2CB1D1C3B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E71F26EC-0F2F-4122-B1FF-478CF4C674EB}
+	EndGlobalSection
+EndGlobal

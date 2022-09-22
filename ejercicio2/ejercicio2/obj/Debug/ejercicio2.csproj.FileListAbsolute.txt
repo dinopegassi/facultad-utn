@@ -1,0 +1,28 @@
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.Cache
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Francisco\AppData\Local\Temporary Projects\ejercicio2\obj\Debug\ejercicio2.pdb
+D:\utn Tsp\Programación\programacion I\2014\Parcial 3\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+D:\utn Tsp\Programación\programacion I\2014\Parcial 3\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.Cache
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe.config
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\bin\Debug\ejercicio2.exe
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\bin\Debug\ejercicio2.pdb
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Form1.resources
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.exe
+C:\my_repos\gilada-facultad-utn\ejercicio2\ejercicio2\obj\Debug\ejercicio2.pdb

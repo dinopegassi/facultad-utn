@@ -1,0 +1,25 @@
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\bin\Debug\FabricaDeMuebles.exe.config
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\bin\Debug\FabricaDeMuebles.exe
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\bin\Debug\FabricaDeMuebles.pdb
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.csproj.AssemblyReference.cache
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.FormDatosdelProducto.resources
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.Form1.resources
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.FormResultado.resources
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.Properties.Resources.resources
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.csproj.GenerateResource.cache
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.csproj.CoreCompileInputs.cache
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.exe
+C:\Users\Gero\Desktop\Facu\C#\Prog2 Guia5\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.pdb
+D:\Descargas\FabricaDeMuebles\bin\Debug\FabricaDeMuebles.exe.config
+D:\Descargas\FabricaDeMuebles\bin\Debug\FabricaDeMuebles.exe
+D:\Descargas\FabricaDeMuebles\bin\Debug\FabricaDeMuebles.pdb
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.csproj.AssemblyReference.cache
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.csproj.SuggestedBindingRedirects.cache
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.FormDatosdelProducto.resources
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.Form1.resources
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.FormResultado.resources
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.Properties.Resources.resources
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.csproj.GenerateResource.cache
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.csproj.CoreCompileInputs.cache
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.exe
+D:\Descargas\FabricaDeMuebles\obj\Debug\FabricaDeMuebles.pdb

@@ -1,0 +1,14 @@
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.csproj.AssemblyReference.cache
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\codigo_validador\bin\Debug\netcoreapp3.1\codigo_validador.exe
+C:\Users\Nicolas\source\repos\codigo_validador\bin\Debug\netcoreapp3.1\codigo_validador.deps.json
+C:\Users\Nicolas\source\repos\codigo_validador\bin\Debug\netcoreapp3.1\codigo_validador.runtimeconfig.json
+C:\Users\Nicolas\source\repos\codigo_validador\bin\Debug\netcoreapp3.1\codigo_validador.runtimeconfig.dev.json
+C:\Users\Nicolas\source\repos\codigo_validador\bin\Debug\netcoreapp3.1\codigo_validador.dll
+C:\Users\Nicolas\source\repos\codigo_validador\bin\Debug\netcoreapp3.1\codigo_validador.pdb
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.dll
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.pdb
+C:\Users\Nicolas\source\repos\codigo_validador\obj\Debug\netcoreapp3.1\codigo_validador.genruntimeconfig.cache

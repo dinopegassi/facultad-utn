@@ -1,0 +1,7 @@
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio1\ejercicio1\bin\Debug\ejercicio1.exe
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio1\ejercicio1\bin\Debug\ejercicio1.pdb
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.Form1.resources
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.Properties.Resources.resources
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.csproj.GenerateResource.Cache
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.exe
+C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio1\ejercicio1\obj\x86\Debug\ejercicio1.pdb

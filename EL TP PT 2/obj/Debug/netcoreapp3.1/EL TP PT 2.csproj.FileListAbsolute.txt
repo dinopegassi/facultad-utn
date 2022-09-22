@@ -1,0 +1,14 @@
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\bin\Debug\netcoreapp3.1\EL TP PT 2.exe
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\bin\Debug\netcoreapp3.1\EL TP PT 2.deps.json
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\bin\Debug\netcoreapp3.1\EL TP PT 2.runtimeconfig.json
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\bin\Debug\netcoreapp3.1\EL TP PT 2.runtimeconfig.dev.json
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\bin\Debug\netcoreapp3.1\EL TP PT 2.dll
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\bin\Debug\netcoreapp3.1\EL TP PT 2.pdb
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.AssemblyInfoInputs.cache
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.AssemblyInfo.cs
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.dll
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.pdb
+C:\my_repos\gilada-facultad-utn\EL TP PT 2\obj\Debug\netcoreapp3.1\EL TP PT 2.genruntimeconfig.cache

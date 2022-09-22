@@ -1,0 +1,12 @@
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form2.resources
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\my_repos\gilada-facultad-utn\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

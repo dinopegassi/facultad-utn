@@ -1,0 +1,5 @@
+C:\Users\Nicolas\source\repos\JugarCraps\obj\Debug\netcoreapp3.1\JugarCraps.csproj.AssemblyReference.cache
+C:\Users\Nicolas\source\repos\JugarCraps\obj\Debug\netcoreapp3.1\JugarCraps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\source\repos\JugarCraps\obj\Debug\netcoreapp3.1\JugarCraps.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\JugarCraps\obj\Debug\netcoreapp3.1\JugarCraps.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\JugarCraps\obj\Debug\netcoreapp3.1\JugarCraps.csproj.CoreCompileInputs.cache

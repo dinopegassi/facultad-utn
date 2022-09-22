@@ -1,0 +1,32 @@
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\bin\Debug\PartidoDeBasquet.exe.config
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\bin\Debug\PartidoDeBasquet.exe
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\bin\Debug\PartidoDeBasquet.pdb
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.csproj.AssemblyReference.cache
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.Form1.resources
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.Properties.Resources.resources
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.csproj.GenerateResource.cache
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.csproj.CoreCompileInputs.cache
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.exe
+C:\Users\Gero\Desktop\Facu\C#\TP3\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.pdb
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\bin\Debug\PartidoDeBasquet.exe.config
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\bin\Debug\PartidoDeBasquet.exe
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\bin\Debug\PartidoDeBasquet.pdb
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.Form1.resources
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.exe
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet\obj\Debug\PartidoDeBasquet.pdb
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\bin\Debug\PartidoDeBasquet.exe.config
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\bin\Debug\PartidoDeBasquet.exe
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\bin\Debug\PartidoDeBasquet.pdb
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.Form1.resources
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.exe
+C:\my_repos\gilada-facultad-utn\PartidoDeBasquet - copia\obj\Debug\PartidoDeBasquet.pdb

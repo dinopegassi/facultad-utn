@@ -1,0 +1,11 @@
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\bin\Debug\DCCbook1.exe.config
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\bin\Debug\DCCbook1.exe
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\bin\Debug\DCCbook1.pdb
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.Form1.resources
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.exe
+C:\my_repos\gilada-facultad-utn\DCCbook1\DCCbook1\obj\Debug\DCCbook1.pdb

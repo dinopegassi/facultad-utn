@@ -1,0 +1,14 @@
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\bin\Debug\netcoreapp3.1\MARQUINHOS.exe
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\bin\Debug\netcoreapp3.1\MARQUINHOS.deps.json
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\bin\Debug\netcoreapp3.1\MARQUINHOS.runtimeconfig.json
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\bin\Debug\netcoreapp3.1\MARQUINHOS.runtimeconfig.dev.json
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\bin\Debug\netcoreapp3.1\MARQUINHOS.dll
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\bin\Debug\netcoreapp3.1\MARQUINHOS.pdb
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.AssemblyInfoInputs.cache
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.AssemblyInfo.cs
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.dll
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.pdb
+C:\my_repos\gilada-facultad-utn\MARQUINHOS\obj\Debug\netcoreapp3.1\MARQUINHOS.genruntimeconfig.cache

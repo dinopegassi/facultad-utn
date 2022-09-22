@@ -1,0 +1,11 @@
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.Form1.resources
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\bin\Debug\Prog2GuiaEstudio2Ej7.exe.config
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\bin\Debug\Prog2GuiaEstudio2Ej7.exe
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\bin\Debug\Prog2GuiaEstudio2Ej7.pdb
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.exe
+C:\my_repos\gilada-facultad-utn\Prog2GuiaEstudio2Ej7\Prog2GuiaEstudio2Ej7\obj\Debug\Prog2GuiaEstudio2Ej7.pdb

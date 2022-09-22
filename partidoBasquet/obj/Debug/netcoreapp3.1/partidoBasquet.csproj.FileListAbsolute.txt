@@ -1,0 +1,14 @@
+C:\my_repos\gilada-facultad-utn\partidoBasquet\bin\Debug\netcoreapp3.1\partidoBasquet.exe
+C:\my_repos\gilada-facultad-utn\partidoBasquet\bin\Debug\netcoreapp3.1\partidoBasquet.deps.json
+C:\my_repos\gilada-facultad-utn\partidoBasquet\bin\Debug\netcoreapp3.1\partidoBasquet.runtimeconfig.json
+C:\my_repos\gilada-facultad-utn\partidoBasquet\bin\Debug\netcoreapp3.1\partidoBasquet.runtimeconfig.dev.json
+C:\my_repos\gilada-facultad-utn\partidoBasquet\bin\Debug\netcoreapp3.1\partidoBasquet.dll
+C:\my_repos\gilada-facultad-utn\partidoBasquet\bin\Debug\netcoreapp3.1\partidoBasquet.pdb
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.GeneratedMSBuildEditorConfig.editorconfig
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.AssemblyInfoInputs.cache
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.AssemblyInfo.cs
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.dll
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.pdb
+C:\my_repos\gilada-facultad-utn\partidoBasquet\obj\Debug\netcoreapp3.1\partidoBasquet.genruntimeconfig.cache

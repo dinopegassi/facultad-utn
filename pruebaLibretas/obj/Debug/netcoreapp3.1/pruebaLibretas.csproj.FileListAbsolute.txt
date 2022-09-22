@@ -1,0 +1,14 @@
+C:\Users\Nicolas\source\repos\pruebaLibretas\bin\Debug\netcoreapp3.1\pruebaLibretas.exe
+C:\Users\Nicolas\source\repos\pruebaLibretas\bin\Debug\netcoreapp3.1\pruebaLibretas.deps.json
+C:\Users\Nicolas\source\repos\pruebaLibretas\bin\Debug\netcoreapp3.1\pruebaLibretas.runtimeconfig.json
+C:\Users\Nicolas\source\repos\pruebaLibretas\bin\Debug\netcoreapp3.1\pruebaLibretas.runtimeconfig.dev.json
+C:\Users\Nicolas\source\repos\pruebaLibretas\bin\Debug\netcoreapp3.1\pruebaLibretas.dll
+C:\Users\Nicolas\source\repos\pruebaLibretas\bin\Debug\netcoreapp3.1\pruebaLibretas.pdb
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.csproj.AssemblyReference.cache
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.AssemblyInfoInputs.cache
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.AssemblyInfo.cs
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.dll
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.pdb
+C:\Users\Nicolas\source\repos\pruebaLibretas\obj\Debug\netcoreapp3.1\pruebaLibretas.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\bin\Debug\SDIvsMDI.exe.config
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\bin\Debug\SDIvsMDI.exe
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\bin\Debug\SDIvsMDI.pdb
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.Form1.resources
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.exe
+C:\my_repos\gilada-facultad-utn\SDIvsMDI\SDIvsMDI\obj\Debug\SDIvsMDI.pdb

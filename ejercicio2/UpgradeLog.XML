@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ejercicio2">
+</Property><Property Name="Archivo de la solución" Value="C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2.sln">
+</Property><Property Name="Archivo de opciones de usuario" Value="C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\ejercicio2.suo">
+</Property><Property Name="Date" Value="domingo, 05 de junio de 2022">
+</Property><Property Name="Time" Value="12:13">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ejercicio2.sln" Description="La copia C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2.sln del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="" Source="ejercicio2.suo" Description="La copia C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2.suo del archivo se ha realizado correctamente">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\ejercicio2.csproj" Description="Se realizó correctamente la copia de seguridad del archivo de proyecto C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\ejercicio2.csproj">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\ejercicio2.csproj.user" Description="La copia de seguridad C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\ejercicio2.csproj.user del archivo se ha creado correctamente">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Equipo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Equipo.cs">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Form1.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Form1.cs">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Form1.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Program.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Program.cs">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Properties\AssemblyInfo.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Properties\Resources.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Properties\Settings.Designer.cs" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Properties\Settings.settings" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Form1.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Form1.resx">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\Properties\Resources.resx" Description="Se realizó correctamente la copia de seguridad del archivo C:\Users\Francisco.Francisco-PC\Desktop\2021\Parcial 3\ejercicio2\Backup\ejercicio2\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\ejercicio2.csproj" Description="Proyecto convertido correctamente">
+</Event><Event ErrorLevel="3" Project="ejercicio2" Source="ejercicio2\ejercicio2.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ejercicio2.sln" Description="La solución se convirtió correctamente">
+</Event><Event ErrorLevel="3" Project="" Source="ejercicio2.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ejercicio2" Source="ejercicio2\ejercicio2.csproj" Description="Examen completo: no es necesario actualizar los archivos de proyecto.">
+</Event></UpgradeLog>

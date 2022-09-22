@@ -1,0 +1,13 @@
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\bin\Debug\Prog2Parcial1.exe.config
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\bin\Debug\Prog2Parcial1.exe
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\bin\Debug\Prog2Parcial1.pdb
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.Form1.resources
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.Form2.resources
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.Form3.resources
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.exe
+C:\my_repos\gilada-facultad-utn\Prog2Parcial1\Prog2Parcial1\obj\Debug\Prog2Parcial1.pdb

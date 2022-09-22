@@ -1,0 +1,11 @@
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\bin\Debug\Ejercicio2Parcial.exe.config
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\bin\Debug\Ejercicio2Parcial.exe
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\bin\Debug\Ejercicio2Parcial.pdb
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.Form1.resources
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.exe
+C:\my_repos\gilada-facultad-utn\Ejercicio2Parcial\Ejercicio2Parcial\obj\Debug\Ejercicio2Parcial.pdb

@@ -1,0 +1,11 @@
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\bin\Debug\HolaAnto}.exe.config
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\bin\Debug\HolaAnto}.exe
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\bin\Debug\HolaAnto}.pdb
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto}.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto}.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto_.Form1.resources
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto_.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto}.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto}.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto}.exe
+C:\my_repos\gilada-facultad-utn\HolaAnto}\HolaAnto}\obj\Debug\HolaAnto}.pdb

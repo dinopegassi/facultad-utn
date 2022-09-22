@@ -1,0 +1,11 @@
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\bin\Debug\TransporteDeCargas.exe.config
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\bin\Debug\TransporteDeCargas.exe
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\bin\Debug\TransporteDeCargas.pdb
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.csproj.AssemblyReference.cache
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.Form1.resources
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.Properties.Resources.resources
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.csproj.GenerateResource.cache
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.csproj.CoreCompileInputs.cache
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.exe
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.pdb
+C:\Users\Gero\Desktop\Facu\C#\TP3\TransporteDeCargas\obj\Debug\TransporteDeCargas.Ticket.resources

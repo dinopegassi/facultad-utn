@@ -1,0 +1,11 @@
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\bin\Debug\GuiaLabo2ParaEntregar1.exe.config
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\bin\Debug\GuiaLabo2ParaEntregar1.exe
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\bin\Debug\GuiaLabo2ParaEntregar1.pdb
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.Form1.resources
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.exe
+C:\my_repos\gilada-facultad-utn\GuiaLabo2ParaEntregar1\GuiaLabo2ParaEntregar1\obj\Debug\GuiaLabo2ParaEntregar1.pdb

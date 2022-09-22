@@ -1,0 +1,11 @@
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\bin\Debug\Labo2Guia7Ej1.exe.config
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\bin\Debug\Labo2Guia7Ej1.exe
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\bin\Debug\Labo2Guia7Ej1.pdb
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.Form1.resources
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.exe
+C:\my_repos\gilada-facultad-utn\Labo2Guia7Ej1\Labo2Guia7Ej1\obj\Debug\Labo2Guia7Ej1.pdb

@@ -1,0 +1,12 @@
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\bin\Debug\Lab2Guia1Ej1.exe.config
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\bin\Debug\Lab2Guia1Ej1.exe
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\bin\Debug\Lab2Guia1Ej1.pdb
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.csproj.AssemblyReference.cache
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.csproj.SuggestedBindingRedirects.cache
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.FormRegistroDeEncuesta.resources
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.FormSistemaEncuestas.resources
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.Properties.Resources.resources
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.csproj.GenerateResource.cache
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.csproj.CoreCompileInputs.cache
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.exe
+C:\my_repos\gilada-facultad-utn\Lab2Guia1Ej1\Lab2Guia1Ej1\obj\Debug\Lab2Guia1Ej1.pdb
